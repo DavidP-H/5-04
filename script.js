@@ -17,9 +17,9 @@ function image () {
 }
 
 function hide () {
-  document.getElementById('paragraph').style.display = "none"
+  document.getElementById('paragraph').style.display = 'none'
 }
 
 function show () {
-  document.getElementById('paragraph').style.display = "block"
+  document.getElementById('paragraph').style.display = 'block'
 }
